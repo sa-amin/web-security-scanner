@@ -56,7 +56,7 @@ A lightweight Python command-line tool for checking selected HTTP security heade
 Clone your repository and enter the project directory:
 
 ```bash
-git clone <https://github.com/sa-amin/web-security-scanner>
+git clone https://github.com/sa-amin/web-security-scanner
 cd web-security-scanner
 ```
 
